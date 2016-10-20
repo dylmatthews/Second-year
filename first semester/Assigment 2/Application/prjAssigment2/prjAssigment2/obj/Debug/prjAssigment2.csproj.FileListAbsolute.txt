@@ -1,0 +1,32 @@
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\bin\Debug\prjAssigment2.exe.config
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\bin\Debug\prjAssigment2.exe
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\bin\Debug\prjAssigment2.pdb
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.csprojResolveAssemblyReference.cache
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmLogin.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.Properties.Resources.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.csproj.GenerateResource.Cache
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.exe
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.pdb
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmMenu.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmRegisterUser.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmSellBatteries.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmSellKeys.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmSellLcoks.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmSellRemotes.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmSellRepairs.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAdmin.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmSellShop.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmViewStock.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAddStock.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAddBattery.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAddKeys.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAddLocks.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAddRemotes.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAddRepairs.resources
+\\psf\Google Drive\2016\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.frmAddShop.resources
+C:\Users\15009851\Desktop\prjAssigment2\prjAssigment2\bin\Debug\prjAssigment2.exe.config
+C:\Users\15009851\Desktop\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.exe
+C:\Users\15009851\Desktop\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.pdb
+Z:\PEO Prog6211 - 15009851\Assigment 2\Application\prjAssigment2\prjAssigment2\bin\Debug\prjAssigment2.exe.config
+Z:\PEO Prog6211 - 15009851\Assigment 2\Application\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.exe
+Z:\PEO Prog6211 - 15009851\Assigment 2\Application\prjAssigment2\prjAssigment2\obj\Debug\prjAssigment2.pdb

@@ -1,0 +1,3 @@
+moon lock,10,180
+gym lock,10,40
+small lock,10,30

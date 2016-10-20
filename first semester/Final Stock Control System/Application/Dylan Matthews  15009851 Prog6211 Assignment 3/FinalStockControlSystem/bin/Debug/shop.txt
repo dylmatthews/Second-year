@@ -1,0 +1,4 @@
+lighter,7,5
+laser,17,35
+laces,17,30
+super glue,8,40

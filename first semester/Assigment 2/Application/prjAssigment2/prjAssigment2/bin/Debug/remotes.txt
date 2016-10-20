@@ -1,0 +1,4 @@
+Et Remotes,25,160
+3 button digi,13,240
+2 button digi,5,220
+1 button digi,12,160

@@ -1,0 +1,24 @@
+\\psf\Google Drive\2016\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe.config
+\\psf\Google Drive\2016\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe
+\\psf\Google Drive\2016\prjLockStock\prjLockStock\bin\Debug\prjLockStock.pdb
+\\psf\Google Drive\2016\prjLockStock\prjLockStock\obj\Debug\prjLockStock.csprojResolveAssemblyReference.cache
+\\psf\Google Drive\2016\prjLockStock\prjLockStock\obj\Debug\prjLockStock.exe
+\\psf\Google Drive\2016\prjLockStock\prjLockStock\obj\Debug\prjLockStock.pdb
+F:\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe.config
+F:\prjLockStock\prjLockStock\obj\Debug\prjLockStock.exe
+F:\prjLockStock\prjLockStock\obj\Debug\prjLockStock.pdb
+F:\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe
+F:\prjLockStock\prjLockStock\bin\Debug\prjLockStock.pdb
+F:\prjLockStock\prjLockStock\obj\Debug\prjLockStock.csprojResolveAssemblyReference.cache
+Z:\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe.config
+Z:\prjLockStock\prjLockStock\obj\Debug\prjLockStock.exe
+Z:\prjLockStock\prjLockStock\obj\Debug\prjLockStock.pdb
+Z:\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe
+Z:\prjLockStock\prjLockStock\bin\Debug\prjLockStock.pdb
+Z:\prjLockStock\prjLockStock\obj\Debug\prjLockStock.csprojResolveAssemblyReference.cache
+C:\Users\15009851\Desktop\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe.config
+C:\Users\15009851\Desktop\prjLockStock\prjLockStock\obj\Debug\prjLockStock.exe
+C:\Users\15009851\Desktop\prjLockStock\prjLockStock\obj\Debug\prjLockStock.pdb
+Z:\PEO Prog6211 - 15009851\Assigment 1\Application\prjLockStock\prjLockStock\bin\Debug\prjLockStock.exe.config
+Z:\PEO Prog6211 - 15009851\Assigment 1\Application\prjLockStock\prjLockStock\obj\Debug\prjLockStock.exe
+Z:\PEO Prog6211 - 15009851\Assigment 1\Application\prjLockStock\prjLockStock\obj\Debug\prjLockStock.pdb

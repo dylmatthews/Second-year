@@ -1,0 +1,15 @@
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.csprojResolveAssemblyReference.cache
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.frmAdmin.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.frmHelp.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.frmLogin.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.frmRegisterUser.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.frmViewStock.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.Properties.Resources.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.csproj.GenerateResource.Cache
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.frmSell.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.frmAdd.resources
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\bin\Debug\FinalStockControlSystem.exe.config
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\bin\Debug\FinalStockControlSystem.exe
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\bin\Debug\FinalStockControlSystem.pdb
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.exe
+Z:\PEO Prog6211 - 15009851\Final Stock Control System\Application\Dylan Matthews  15009851 Prog6211 Assignment 3\FinalStockControlSystem\obj\Debug\FinalStockControlSystem.pdb
