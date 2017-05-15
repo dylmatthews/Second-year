@@ -1,0 +1,3 @@
+X:\2016\prog asisgment 3\progAssigment2\progAssigment2\bin\Debug\progAssigment2.exe.config
+X:\2016\prog asisgment 3\progAssigment2\progAssigment2\obj\Debug\progAssigment2.exe
+X:\2016\prog asisgment 3\progAssigment2\progAssigment2\obj\Debug\progAssigment2.pdb

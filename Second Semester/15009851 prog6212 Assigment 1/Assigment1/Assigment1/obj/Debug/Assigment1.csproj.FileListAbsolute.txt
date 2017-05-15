@@ -1,0 +1,15 @@
+\\psf\Home\Documents\Assigment1\Assigment1\bin\Debug\Assigment1.exe.config
+\\psf\Home\Documents\Assigment1\Assigment1\bin\Debug\Assigment1.exe
+\\psf\Home\Documents\Assigment1\Assigment1\bin\Debug\Assigment1.pdb
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.frmLogin.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.Properties.Resources.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.exe
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.pdb
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.frmRegisterUser.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.frmForgotPassword.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.frmAddPatient.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.frmReceptionsit.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.frmSearch.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.frmReport.resources
+\\psf\Home\Documents\Assigment1\Assigment1\obj\Debug\Assigment1.csprojResolveAssemblyReference.cache
